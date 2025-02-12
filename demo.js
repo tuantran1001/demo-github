@@ -1,3 +1,1 @@
-const hl = () => {
-    console.log("demo github")
-}
+console.log("demo- github")
